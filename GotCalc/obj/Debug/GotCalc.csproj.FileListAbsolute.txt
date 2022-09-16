@@ -1,0 +1,7 @@
+C:\Users\Ростислав\source\repos\GotCalc\GotCalc\bin\Debug\GotCalc.exe.config
+C:\Users\Ростислав\source\repos\GotCalc\GotCalc\bin\Debug\GotCalc.exe
+C:\Users\Ростислав\source\repos\GotCalc\GotCalc\bin\Debug\GotCalc.pdb
+C:\Users\Ростислав\source\repos\GotCalc\GotCalc\obj\Debug\GotCalc.csprojAssemblyReference.cache
+C:\Users\Ростислав\source\repos\GotCalc\GotCalc\obj\Debug\GotCalc.csproj.CoreCompileInputs.cache
+C:\Users\Ростислав\source\repos\GotCalc\GotCalc\obj\Debug\GotCalc.exe
+C:\Users\Ростислав\source\repos\GotCalc\GotCalc\obj\Debug\GotCalc.pdb
